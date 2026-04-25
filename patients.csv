@@ -1,0 +1,6 @@
+id,date_saisie,nom,age,sexe,pays,taille,poids,imc,tour_taille,glycemie,tension_sys,tension_dia,activite_type,activite_frequence,activite_duree,sedentaire,alimentation_sucre,alimentation_legumes,antecedents_familiaux,antecedents_personnels,risque
+1,2026-04-24 21:05:38,Amadou,28,Homme,Cameroun,176,66,21.3,59,100,116,80,Aucune,2,30,Non,Moyenne,Rarement,Non,Aucun,Faible
+2,2026-04-25 05:06:41,Dubois,30,Homme,France,175,70,22.9,82,85,120,80,Course,4,30,Non,Moyenne,Parfois,Non,Aucun,Faible
+3,2026-04-25 05:10:27,Amina,50,Femme,Maroc,160,85,33.2,108,145,120,90,Marche,2,30,Non,Moyenne,Rarement,Oui,Cholestérol,Élevé
+4,2026-04-25 05:14:11,Kevin,29,Homme,Côte d'Ivoire,175,70,22.9,82,100,120,80,Vélo,3,25,Non,Moyenne,Rarement,Oui,Aucun,Modéré
+5,2026-04-25 05:17:20,Fatou,42,Femme,Sénégal,162,78,29.7,88,130,135,88,Natation,3,30,Non,Moyenne,Parfois,Oui,Hypertension,Élevé

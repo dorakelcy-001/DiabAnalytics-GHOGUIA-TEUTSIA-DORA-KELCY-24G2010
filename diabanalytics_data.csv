@@ -1,0 +1,11 @@
+id,date_saisie,nom,age,sexe,pays,taille,poids,imc,tour_taille,glycemie,tension_sys,tension_dia,activite_type,activite_frequence,activite_duree,sedentaire,alimentation_sucre,alimentation_legumes,antecedents_familiaux,antecedents_personnels,risque
+1,2024-01-15 10:30:00,Jean Martin,58,Homme,France,175,85,27.8,98,142,135,85,Marche,2,30,Oui,Élevée,Parfois,Oui,Hypertension,Élevé
+2,2024-01-16 14:20:00,Marie Dubois,45,Femme,France,162,65,24.8,82,108,125,80,Natation,3,45,Non,Moyenne,Souvent,Non,Aucun,Modéré
+3,2024-01-17 09:15:00,Paul Kouadio,52,Homme,Cameroun,170,78,27.0,94,165,145,90,Aucune,0,0,Oui,Élevée,Rarement,Oui,Hypertension,Élevé
+4,2024-01-18 11:45:00,Sophie Ngono,38,Femme,Cameroun,165,72,26.4,88,95,120,75,Marche,4,30,Non,Moyenne,Souvent,Non,Aucun,Faible
+5,2024-01-19 16:30:00,Amadou Diallo,62,Homme,Sénégal,168,80,28.3,96,158,140,88,Aucune,1,20,Oui,Élevée,Rarement,Oui,Aucun,Élevé
+6,2024-01-20 08:00:00,Fatima Zahra,41,Femme,Maroc,160,68,26.6,86,112,128,82,Marche,3,25,Non,Moyenne,Parfois,Oui,Diabète gestationnel,Modéré
+7,2024-01-21 13:15:00,Charles Bédié,49,Homme,Côte d'Ivoire,172,90,30.4,102,118,130,85,Aucune,0,0,Oui,Élevée,Rarement,Oui,Hypertension,Élevé
+8,2024-01-22 10:00:00,Claire Nzita,33,Femme,RDC,158,58,23.2,74,88,115,75,Vélo,5,45,Non,Faible,Souvent,Non,Aucun,Faible
+9,2024-01-23 15:45:00,Mohamed Benali,55,Homme,Tunisie,174,82,27.1,96,125,138,86,Marche,2,30,Non,Moyenne,Parfois,Oui,Aucun,Modéré
+10,2024-01-24 09:30:00,Éliane Rajaonary,47,Femme,Madagascar,155,72,30.0,92,132,130,84,Aucune,0,0,Oui,Élevée,Rarement,Oui,Aucun,Élevé
